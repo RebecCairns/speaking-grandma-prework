@@ -3,7 +3,7 @@ def speak_to_grandma(greating)
   if greating != shoutTrue
      return "HUH?! SPEAK UP, SONNY!"
   elsif greating == "I LOVE YOU GRANDMA!"
-     return  "I LOVE YOU TOO PUMPKIN"
+     return  "I LOVE YOU TOO PUMPKIN!"
   else   
     return  "NO, NOT SINCE 1938!"
   end  
